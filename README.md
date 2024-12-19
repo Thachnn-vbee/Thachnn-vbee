@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thachnn working at Vbee
-- 👀 I’m interested in coding, tennis, and sport in general
+- 👋 Hi, I’m @Thachnn working part-time at Vbee
+- 👀 I’m interested in building product, coding, tennis, and sport in general
 - 🌱 I’m currently learning Either and Functional
 - 💞️ I’m looking to collaborate on development and product of Vbee
 - 📫 Reach me via Vbee Google Chat
